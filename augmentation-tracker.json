@@ -38,7 +38,7 @@
       "children": {
         "SearchBar": {
           "count": 1,
-          "location": "placed centered",
+          "location": "placed at the end",
           "description": "user can enter input"
         },
         "ModeToggler": {
@@ -48,7 +48,7 @@
           "functionality": "toggles the global theme"
         },
         "ToggleBtn": {
-          "count": 3,
+          "count": 4,
           "location": "to the right of the ModeToggler button",
           "description": "on clicked opens popup",
           "children": {
@@ -195,7 +195,7 @@
       }
     }
   },
-  "functionality": [],
+  "functionality": { "": "" },
   "sizing_updates": [],
   "screen_and_layout_augmentations": []
 }
